@@ -1,1 +1,1 @@
-# unicode
+# 批量处理文件夹下面所有txt文件的unicode编码
